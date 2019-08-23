@@ -60,3 +60,4 @@ Go to the project root folder and run the following command:
 This will create a "target" folder containing the application jar file: java-WebServer-1.0-jar-with-dependencies.jar  
 
 Changes 2
+3
